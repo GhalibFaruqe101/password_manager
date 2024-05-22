@@ -23,8 +23,8 @@ This is a simple command-line password manager written in Python. It allows user
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/password-manager.git
-    cd password-manager
+    git clone https://github.com/ghalibfaruqe101/password_manager.git
+    cd password_manager
     ```
 
 2. **Install required libraries:**
